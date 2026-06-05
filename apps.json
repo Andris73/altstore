@@ -20,6 +20,25 @@
           "minOSVersion": "26.0"
         }
       ]
+    },
+    {
+      "name": "Speedometer",
+      "bundleIdentifier": "com.speedometer.app",
+      "developerName": "Andris73",
+      "subtitle": "GPS speedometer",
+      "localizedDescription": "A simple GPS speedometer.",
+      "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/speedometer.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "14",
+          "date": "2026-06-05",
+          "localizedDescription": "Build 11b8463",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/speedometer.ipa",
+          "size": 48825,
+          "minOSVersion": "15.0"
+        }
+      ]
     }
   ],
   "news": []
