@@ -39,6 +39,25 @@
           "minOSVersion": "15.0"
         }
       ]
+    },
+    {
+      "name": "Aidoku (Cross-Source)",
+      "bundleIdentifier": "app.aidoku.Aidoku",
+      "developerName": "Andris73",
+      "subtitle": "Manga reader \u2014 cross-source referencing fork",
+      "localizedDescription": "A fork of Aidoku with cross-source referencing.",
+      "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/aidoku.png",
+      "versions": [
+        {
+          "version": "0.8.3",
+          "buildVersion": "1206",
+          "date": "2026-06-05",
+          "localizedDescription": "Build ffa52da9",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/aidoku.ipa",
+          "size": 6976848,
+          "minOSVersion": "15.0"
+        }
+      ]
     }
   ],
   "news": []
