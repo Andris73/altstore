@@ -1,6 +1,26 @@
 {
   "name": "Andris73 Apps",
   "identifier": "com.andris73.altstore",
-  "apps": [],
+  "apps": [
+    {
+      "name": "BookWave",
+      "bundleIdentifier": "com.bookwave",
+      "developerName": "Andris73",
+      "subtitle": "AudiobookBay + Transmission client",
+      "localizedDescription": "BookWave lets you browse AudiobookBay and send magnet links directly to your Transmission server for download.",
+      "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/bookwave.png",
+      "versions": [
+        {
+          "version": "3.4.1",
+          "buildVersion": "1165",
+          "date": "2026-06-05",
+          "localizedDescription": "Build af278539",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/bookwave.ipa",
+          "size": 6961219,
+          "minOSVersion": "26.0"
+        }
+      ]
+    }
+  ],
   "news": []
 }
