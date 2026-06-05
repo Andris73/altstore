@@ -1,0 +1,10 @@
+{
+  "name": "Speedometer",
+  "bundleIdentifier": "com.speedometer.app",
+  "developerName": "Andris73",
+  "subtitle": "GPS speedometer",
+  "localizedDescription": "A simple GPS speedometer.",
+  "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/speedometer.png",
+  "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/speedometer.ipa",
+  "minOSVersion": "15.0"
+}

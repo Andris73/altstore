@@ -1,0 +1,10 @@
+{
+  "name": "Aidoku (Cross-Source)",
+  "bundleIdentifier": "app.aidoku.Aidoku",
+  "developerName": "Andris73",
+  "subtitle": "Manga reader — cross-source referencing fork",
+  "localizedDescription": "A fork of Aidoku with cross-source referencing.",
+  "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/aidoku.png",
+  "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/aidoku.ipa",
+  "minOSVersion": "15.0"
+}
