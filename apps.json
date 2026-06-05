@@ -59,6 +59,15 @@
       "versions": [
         {
           "version": "0.8.3",
+          "buildVersion": "1207",
+          "date": "2026-06-05",
+          "localizedDescription": "Build 3a8707f5",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/aidoku.ipa",
+          "size": 6976622,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.8.3",
           "buildVersion": "1206",
           "date": "2026-06-05",
           "localizedDescription": "Build ffa52da9",
