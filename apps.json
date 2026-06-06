@@ -31,6 +31,15 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "23",
+          "date": "2026-06-06",
+          "localizedDescription": "Build c79f495",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/speedometer.ipa",
+          "size": 534637,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "22",
           "date": "2026-06-06",
           "localizedDescription": "Build a38c92a",
