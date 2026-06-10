@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/bookwave.png",
       "versions": [
         {
+          "version": "3.6.4",
+          "buildVersion": "1171",
+          "date": "2026-06-10",
+          "localizedDescription": "Build f7c9e5f9",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/bookwave.ipa",
+          "size": 6946013,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "3.6.3",
           "buildVersion": "1170",
           "date": "2026-06-10",
