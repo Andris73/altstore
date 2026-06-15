@@ -357,6 +357,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "8",
+          "date": "2026-06-15",
+          "localizedDescription": "Build faadcac",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/prioritytraffic.ipa",
+          "size": 1360000,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "6",
           "date": "2026-06-15",
           "localizedDescription": "Build 050f6e5",
