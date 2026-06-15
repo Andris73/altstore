@@ -357,6 +357,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "2",
+          "date": "2026-06-15",
+          "localizedDescription": "Build be0b64c",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/prioritytraffic.ipa",
+          "size": 23034,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "1",
           "date": "2026-06-15",
           "localizedDescription": "Build bc25ab1",
