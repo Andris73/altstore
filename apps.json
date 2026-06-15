@@ -346,6 +346,25 @@
           "minOSVersion": "15.0"
         }
       ]
+    },
+    {
+      "name": "Priority Traffic",
+      "bundleIdentifier": "com.prioritytraffic.app",
+      "developerName": "Andris73",
+      "subtitle": "Navigation that avoids giving way",
+      "localizedDescription": "Priority Traffic routes you for right-of-way, picking roads where you keep priority and give way as little as possible for a smoother journey.",
+      "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/prioritytraffic.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-06-15",
+          "localizedDescription": "Build bc25ab1",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/prioritytraffic.ipa",
+          "size": 19545,
+          "minOSVersion": "18.0"
+        }
+      ]
     }
   ],
   "news": []
