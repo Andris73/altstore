@@ -356,6 +356,15 @@
       "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/prioritytraffic.png",
       "versions": [
         {
+          "version": "1.6.0",
+          "buildVersion": "12",
+          "date": "2026-06-17",
+          "localizedDescription": "Build c27600e",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/prioritytraffic.ipa",
+          "size": 1411551,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "1.5.0",
           "buildVersion": "11",
           "date": "2026-06-17",
