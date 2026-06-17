@@ -356,6 +356,15 @@
       "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/prioritytraffic.png",
       "versions": [
         {
+          "version": "1.9.0",
+          "buildVersion": "15",
+          "date": "2026-06-17",
+          "localizedDescription": "Build 5dcd53a",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/prioritytraffic.ipa",
+          "size": 1428057,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "1.8.0",
           "buildVersion": "14",
           "date": "2026-06-17",
