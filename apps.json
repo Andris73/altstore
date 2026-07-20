@@ -519,6 +519,25 @@
           "minOSVersion": "26.0"
         }
       ]
+    },
+    {
+      "name": "Absorb",
+      "bundleIdentifier": "com.barnabas.absorb",
+      "developerName": "Andris73",
+      "subtitle": "An Audiobookshelf client with Discover",
+      "localizedDescription": "Absorb is a cross-platform Audiobookshelf client for listening to your audiobooks and podcasts. This fork adds a Discover tab: search and browse AudiobookBay, track your series via Hardcover, and send downloads straight to Transmission.",
+      "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/absorb.png",
+      "versions": [
+        {
+          "version": "1.10.0",
+          "buildVersion": "1024",
+          "date": "2026-07-20",
+          "localizedDescription": "Build 72b78c0",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/absorb.ipa",
+          "size": 25651424,
+          "minOSVersion": "15.0"
+        }
+      ]
     }
   ],
   "news": []
