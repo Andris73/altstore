@@ -529,6 +529,15 @@
       "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/absorb.png",
       "versions": [
         {
+          "version": "1.12.0",
+          "buildVersion": "1026",
+          "date": "2026-07-21",
+          "localizedDescription": "Build a6ce170",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/absorb.ipa",
+          "size": 25656111,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.11.0",
           "buildVersion": "1025",
           "date": "2026-07-20",
