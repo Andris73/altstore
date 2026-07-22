@@ -228,6 +228,15 @@
       "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/speedometer.png",
       "versions": [
         {
+          "version": "1.4.0",
+          "buildVersion": "28",
+          "date": "2026-07-22",
+          "localizedDescription": "Build 27ad862",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/speedometer.ipa",
+          "size": 581176,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.3.0",
           "buildVersion": "27",
           "date": "2026-07-22",
