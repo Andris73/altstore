@@ -556,6 +556,15 @@
       "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/absorb.png",
       "versions": [
         {
+          "version": "1.12.4",
+          "buildVersion": "1030",
+          "date": "2026-08-20",
+          "localizedDescription": "Build a0587d3",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/absorb.ipa",
+          "size": 25663279,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.12.3",
           "buildVersion": "1029",
           "date": "2026-08-20",
