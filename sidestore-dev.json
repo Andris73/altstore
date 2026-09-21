@@ -1,0 +1,27 @@
+{
+  "name": "Andris73 SideStore (issue #229 dev)",
+  "identifier": "com.andris73.sidestore-dev",
+  "apps": [
+    {
+      "name": "SideStore (fix229)",
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "developerName": "Andris73 / SideStore",
+      "subtitle": "Watch-companion dev build (issue #229)",
+      "localizedDescription": "Development SideStore build with on-device Apple Watch companion install (issue #229). Installs embedded Watch apps to the paired watch via companion_proxy + streaming_zip_conduit. Includes crash-durable watch-install breadcrumb logging.",
+      "iconURL": "https://github.com/Andris73/altstore/raw/master/icons/sidestore.png",
+      "tintColor": "7852FE",
+      "versions": [
+        {
+          "version": "0.7.2294",
+          "buildVersion": "700",
+          "date": "2026-09-21T12:30:00-00:00",
+          "localizedDescription": "fix229-build10-debug (SideStore 869f87d3 / minimuxer 0e365198): crash-durable watch-install breadcrumb. Reinstall PadelScorer, let it crash, relaunch SideStore, export log — look for [WatchInstall][prev] lines.",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/sidestore-fix229.ipa",
+          "size": 30798867,
+          "minOSVersion": "15.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
