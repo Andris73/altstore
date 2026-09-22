@@ -647,6 +647,15 @@
       "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/padelscorer.png",
       "versions": [
         {
+          "version": "0.13.2",
+          "buildVersion": "123",
+          "date": "2026-09-22",
+          "localizedDescription": "Build fbec003",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/padelscorer.ipa",
+          "size": 942174,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.13.1",
           "buildVersion": "119",
           "date": "2026-09-22",
