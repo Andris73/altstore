@@ -643,9 +643,18 @@
       "bundleIdentifier": "com.padelscorer.app",
       "developerName": "Andris73",
       "subtitle": "Score padel from your wrist",
-      "localizedDescription": "Offline Apple Watch padel scorer with undo, serving order, HealthKit workouts and match history on iPhone.",
+      "localizedDescription": "Offline Apple Watch padel scorer with undo, serving order, flexible deuce rules and match history on iPhone.",
       "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/padelscorer.png",
       "versions": [
+        {
+          "version": "0.16.0",
+          "buildVersion": "184",
+          "date": "2026-09-23",
+          "localizedDescription": "Build 1e1453f",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/padelscorer.ipa",
+          "size": 1039645,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.15.3",
           "buildVersion": "169",
