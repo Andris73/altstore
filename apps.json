@@ -648,6 +648,15 @@
       "versions": [
         {
           "version": "0.19.0",
+          "buildVersion": "204",
+          "date": "2026-09-24",
+          "localizedDescription": "Build 423855b",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/padelscorer.ipa",
+          "size": 1195781,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "0.19.0",
           "buildVersion": "203",
           "date": "2026-09-24",
           "localizedDescription": "Build bf28d20",
