@@ -368,7 +368,7 @@
       "name": "Aidoku (Cross-Source)",
       "bundleIdentifier": "app.aidoku.Aidoku",
       "developerName": "Andris73",
-      "subtitle": "Manga reader \u2014 cross-source referencing fork",
+      "subtitle": "Manga reader — cross-source referencing fork",
       "localizedDescription": "A fork of Aidoku with cross-source referencing.",
       "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/aidoku.png",
       "versions": [
@@ -533,7 +533,7 @@
       "bundleIdentifier": "com.library.app",
       "developerName": "Andris73",
       "subtitle": "Browse, download, and manage your ebook collection",
-      "localizedDescription": "Library is a native iOS app for browsing, downloading, and managing ebooks from self-hosted book servers. Discover new books, organise your collection, and keep your library synced \u2014 no audio playback, just books.",
+      "localizedDescription": "Library is a native iOS app for browsing, downloading, and managing ebooks from self-hosted book servers. Discover new books, organise your collection, and keep your library synced — no audio playback, just books.",
       "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/library.png",
       "versions": [
         {
@@ -1040,25 +1040,6 @@
           "localizedDescription": "Build f3b6773",
           "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/padelscorer.ipa",
           "size": 86228,
-          "minOSVersion": "26.0"
-        }
-      ]
-    },
-    {
-      "name": "PadelBoard",
-      "bundleIdentifier": "com.padelscorer.board",
-      "developerName": "Andris73",
-      "subtitle": "Courtside padel scoreboard for iPad",
-      "localizedDescription": "Full-screen iPad court display for PadelScorer. Open it on an iPad at the court, then join from PadelScorer on your iPhone with the 4-digit code \u2014 the live score from your Apple Watch appears large enough to read from the baseline. Works without internet or shared Wi-Fi.",
-      "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/padelboard.png",
-      "versions": [
-        {
-          "version": "0.19.0",
-          "buildVersion": "204",
-          "date": "2026-09-24",
-          "localizedDescription": "Build 423855b",
-          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/padelboard.ipa",
-          "size": 229019,
           "minOSVersion": "26.0"
         }
       ]
