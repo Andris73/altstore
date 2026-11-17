@@ -647,6 +647,15 @@
       "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/padelscorer.png",
       "versions": [
         {
+          "version": "0.35.0",
+          "buildVersion": "276",
+          "date": "2026-11-17",
+          "localizedDescription": "Build facccaf",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/padelscorer.ipa",
+          "size": 3191221,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.34.0",
           "buildVersion": "275",
           "date": "2026-11-15",
