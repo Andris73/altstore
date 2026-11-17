@@ -12,7 +12,7 @@
       "tintColor": "7852FE",
       "versions": [
         {
-          "version": "0.7.2297",
+          "version": "0.7.0",
           "buildVersion": "0710",
           "date": "2026-11-17T20:05:46.252571-00:00",
           "localizedDescription": "build30-refresh-fixes: Phone-only refresh now retries as full resign+reinstall when misagent profile install fails with 'install Status is not an unsigned integer' (error 39). Watch-app refresh skips plist patching to avoid 'Conflicting platform declaration' errors. SideStore itself only falls back when refreshed alone. Watch-app refresh will drop custom Info.plist/entitlements edits (see release notes). After team certificate changes, a second SideStore copy could appear without a prompt (edge case). Not proven on device; test and send log for verification.",
