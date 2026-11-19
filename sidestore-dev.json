@@ -13,6 +13,15 @@
       "versions": [
         {
           "version": "0.7.0",
+          "buildVersion": "0711",
+          "date": "2026-11-19T20:45:44.356489-00:00",
+          "localizedDescription": "build31-watch-optional: apps that embed a Watch app (e.g. PadelScorer) now install on a device with NO paired Apple Watch. When the Watch companion registry is unavailable or empty, the Watch bundles are stripped from the staged copy and the app is provisioned/signed/installed phone-only. Devices with a paired Watch keep the full Watch install path. Includes build30 refresh fixes. FAST-TRACK: unreviewed, untested on device. Log marker: [WatchOptional31] build0711.",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/sidestore-build31.ipa",
+          "size": 31088751,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.7.0",
           "buildVersion": "0710",
           "date": "2026-11-17T20:05:46.252571-00:00",
           "localizedDescription": "build30-refresh-fixes: Phone-only refresh now retries as full resign+reinstall when misagent profile install fails with 'install Status is not an unsigned integer' (error 39). Watch-app refresh skips plist patching to avoid 'Conflicting platform declaration' errors. SideStore itself only falls back when refreshed alone. Watch-app refresh will drop custom Info.plist/entitlements edits (see release notes). After team certificate changes, a second SideStore copy could appear without a prompt (edge case). Not proven on device; test and send log for verification.",
