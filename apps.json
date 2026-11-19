@@ -1332,6 +1332,26 @@
           "minOSVersion": "17.0"
         }
       ]
+    },
+    {
+      "name": "PadelScorer (no Watch)",
+      "bundleIdentifier": "com.padelscorer.app.nowatch",
+      "developerName": "Andris73",
+      "subtitle": "iPad / no-Watch build",
+      "localizedDescription": "Offline iPhone, iPad and Apple Watch padel scorer with undo, serving order, flexible deuce rules and match history. Run Americano, Mexicano and PADALL Leauge tournaments with individual standings, audited result corrections, live spectator boards and shareable results.",
+      "iconURL": "https://raw.githubusercontent.com/Andris73/altstore/master/icons/padelscorer.png",
+      "versions": [
+        {
+          "version": "0.36.0",
+          "buildVersion": "280",
+          "date": "2026-11-19T20:49:21.589541-00:00",
+          "localizedDescription": "Same as PadelScorer 0.36.0 (280) with the Watch app removed so it installs on devices without a paired Apple Watch (e.g. iPad). Bundle ID com.padelscorer.app.nowatch.",
+          "downloadURL": "https://github.com/Andris73/altstore/raw/master/ipas/padelscorer-nowatch.ipa",
+          "size": 1570332,
+          "minOSVersion": "26.0",
+          "sha256": "ca497e4f8d819cf68ee43521eb28d4371db8ada5733838eef4b5173957a2db7a"
+        }
+      ]
     }
   ],
   "news": []
